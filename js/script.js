@@ -6,8 +6,10 @@
 
 //countLines(['Петя', 'Джон', 'Вася', 'катя', 'Боб']);
 
-var a = ['Петя', 'Валя', 'Вася'];
-
-for (var i = 1; i < a.length + 1; i++) {
-    console.log(i);
+function countPersons(persons) {
+    for (var i = 1; i < persons.length + 1; i++) {
+        console.log(i);
+    }
 };
+
+countPersons(['Петя', 'Валя', 'Вася', 'Джек']);
