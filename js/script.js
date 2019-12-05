@@ -1,7 +1,13 @@
-var lines = ['Вася', 'Петя', 'Валя', 'Игорь'];
+//function countLines([]) {
+    //for (var i = 1; i < Array.length; i++) {
+        //console.log(i);
+    //}
+//}
 
-function countLines() {
-console.log(lines[1]);
-}
+//countLines(['Петя', 'Джон', 'Вася', 'катя', 'Боб']);
 
-countLines();
+var a = ['Петя', 'Валя', 'Вася'];
+
+for (var i = 1; i < a.length + 1; i++) {
+    console.log(i);
+};
