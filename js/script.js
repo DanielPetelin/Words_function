@@ -1,3 +1,5 @@
+var lines = [];
+
 function countLines() {
-    
+
 }
