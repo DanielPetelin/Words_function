@@ -12,4 +12,4 @@ function countPersons(persons) {
     }
 };
 
-countPersons(['Петя', 'Валя', 'Вася', 'Джек']);
+countPersons(['Петя', 'Валя', 'Вася', 'Джек', 'Пупкин']);
