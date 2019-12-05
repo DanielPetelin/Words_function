@@ -1,4 +1,4 @@
-var lines = [];
+var lines = ['Вася', 'Петя', 'Валя', 'Игорь'];
 
 function countLines() {
 
