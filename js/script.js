@@ -4,4 +4,4 @@ function countLines() {
 
 }
 
-countLines();
+console.log(countLines()); 
