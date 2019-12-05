@@ -6,7 +6,7 @@ var f = a + d;
 var g = k + m;
 var l = f + g;
 
-console.log(a + d + k + m);
+console.log(k + m);
 console.log(l);
 
 function countPersons(persons) {
