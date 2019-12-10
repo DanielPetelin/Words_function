@@ -15,5 +15,5 @@ function countPersons(persons) {
     }
 };
 
-countPersons(['Андрей','Данил','Фаин','Котик']);
+countPersons(['Андрей','Данил','Фаин','Рыкса']);
 //=4
